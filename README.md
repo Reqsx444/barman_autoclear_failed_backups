@@ -1,0 +1,1 @@
+# Barman_autoclear_failed_backups
