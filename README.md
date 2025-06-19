@@ -1,4 +1,4 @@
-#Barman Failed Backups Cleaner
+**Barman Failed Backups Cleaner**
 ## Introduction
 A Bash script that automates the detection and removal of FAILED PostgreSQL backups managed by Barman.
 It scans for failed backups for a given server, removes their data from disk, logs the operation, and cleans up temporary files.
