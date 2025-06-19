@@ -11,4 +11,6 @@ It scans for failed backups for a given server, removes their data from disk, lo
 
 ## CRON
 To run this script daily at 4:00 AM for server pg-main: </br>
+```
 0 4 * * * /path/to/barman_cleanup.sh -n pg-main
+```
